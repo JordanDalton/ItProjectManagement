@@ -1,0 +1,93 @@
+.groovepaper,
+.breadcrumb {
+	background: url("../img/groovepaper.png") repeat scroll 0% 0% transparent;
+}
+
+.breadcrumb {
+	font-size:.80em;
+}
+
+.brand {
+	background-image: url('../img/appLogo-2.png');
+	background-repeat: no-repeat;
+	background-position: center center;
+	height:15px;
+	width:210px
+}
+
+.navbar {
+	.divider-vertical {
+		border-left-color:#e2e2e2;
+		border-left-color:rgba(0,0,0,.15);
+		box-shadow:0 0 10px rgba(0,0,0,.1);
+		-moz-box-shadow:0 0 10px rgba(0,0,0,.1);
+		-webkit-box-shadow:0 0 10px rgba(0,0,0,.1);
+		margin:0 0;
+	}
+	.nav {
+		> li {
+			font-weight:bold;
+			> a {
+				i {
+					opacity:.4;
+				}
+			}
+		}
+
+		> li:hover {
+			> a {
+				i {
+					opacity:.4;
+				}
+			}
+		}
+	}
+}
+
+.nav-tabs {
+	background: #F2F2F2;
+	background-image: linear-gradient(to bottom, #fafafa, #F2F2F2);
+	background-image: -moz-linear-gradient(to bottom, #fafafa, #F2F2F2);
+	background-image: -webkit-linear-gradient(to bottom, #fafafa, #F2F2F2);
+	li.active {
+		font-weight:bold;
+	}
+}
+
+body#home.login {
+	.navbar { display:none }
+	form, .form-actions { margin: 0 0 0 }
+}
+
+.user-activity-feed-container {
+	.media-heading { font-size:.85em }
+	hr { margin:10px 0 }
+	blockquote { 
+		margin-bottom:10px;
+		h4 { 
+			margin-bottom:0;
+			a { color:#1473c5; }
+		}
+		p { color:#aaa }
+	}
+}
+
+.recentProjectDiscussions {
+	box-shadow:0 5px 10px #aaa;
+	-moz-box-shadow:0 5px 10px #aaa;
+	-webkit-box-shadow:0 5px 10px #aaa;
+}
+
+.noPaginationMargins {
+	.pagination { margin: 0 0 0 0 }
+}
+
+.replyFormContainer.affix {
+	position:fixed;
+	top:50px;
+	width:270px;
+}
+
+.nicEdit-main {
+	background:#fff
+}

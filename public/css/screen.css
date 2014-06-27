@@ -1,0 +1,111 @@
+/* line 2, sass/screen.scss */
+.groovepaper,
+.breadcrumb {
+  background: url("../img/groovepaper.png") repeat scroll 0% 0% transparent;
+}
+
+/* line 6, sass/screen.scss */
+.breadcrumb {
+  font-size: .80em;
+}
+
+/* line 10, sass/screen.scss */
+.brand {
+  background-image: url("../img/appLogo-2.png");
+  background-repeat: no-repeat;
+  background-position: center center;
+  height: 15px;
+  width: 210px;
+}
+
+/* line 19, sass/screen.scss */
+.navbar .divider-vertical {
+  border-left-color: #e2e2e2;
+  border-left-color: rgba(0, 0, 0, 0.15);
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  -moz-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  -webkit-box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin: 0 0;
+}
+/* line 28, sass/screen.scss */
+.navbar .nav > li {
+  font-weight: bold;
+}
+/* line 31, sass/screen.scss */
+.navbar .nav > li > a i {
+  opacity: .4;
+}
+/* line 39, sass/screen.scss */
+.navbar .nav > li:hover > a i {
+  opacity: .4;
+}
+
+/* line 47, sass/screen.scss */
+.nav-tabs {
+  background: #F2F2F2;
+  background-image: linear-gradient(to bottom, #fafafa, #f2f2f2);
+  background-image: -moz-linear-gradient(to bottom, #fafafa, #f2f2f2);
+  background-image: -webkit-linear-gradient(to bottom, #fafafa, #f2f2f2);
+}
+/* line 52, sass/screen.scss */
+.nav-tabs li.active {
+  font-weight: bold;
+}
+
+/* line 58, sass/screen.scss */
+body#home.login .navbar {
+  display: none;
+}
+/* line 59, sass/screen.scss */
+body#home.login form, body#home.login .form-actions {
+  margin: 0 0 0;
+}
+
+/* line 63, sass/screen.scss */
+.user-activity-feed-container .media-heading {
+  font-size: .85em;
+}
+/* line 64, sass/screen.scss */
+.user-activity-feed-container hr {
+  margin: 10px 0;
+}
+/* line 65, sass/screen.scss */
+.user-activity-feed-container blockquote {
+  margin-bottom: 10px;
+}
+/* line 67, sass/screen.scss */
+.user-activity-feed-container blockquote h4 {
+  margin-bottom: 0;
+}
+/* line 69, sass/screen.scss */
+.user-activity-feed-container blockquote h4 a {
+  color: #1473c5;
+}
+/* line 71, sass/screen.scss */
+.user-activity-feed-container blockquote p {
+  color: #aaa;
+}
+
+/* line 75, sass/screen.scss */
+.recentProjectDiscussions {
+  box-shadow: 0 5px 10px #aaa;
+  -moz-box-shadow: 0 5px 10px #aaa;
+  -webkit-box-shadow: 0 5px 10px #aaa;
+}
+
+/* line 82, sass/screen.scss */
+.noPaginationMargins .pagination {
+  margin: 0 0 0 0;
+}
+
+/* line 85, sass/screen.scss */
+.replyFormContainer.affix {
+  position: fixed;
+  top: 50px;
+  width: 270px;
+}
+
+/* line 91, sass/screen.scss */
+.nicEdit-main {
+  background: white;
+}

@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"clos",
+				"closestTr"
+			],
+			[
+				"response",
+				"responseOutput"
+			],
+			[
+				"discu",
+				"discussionsCount"
+			],
+			[
+				"URI",
+				"URI	Laravel: URI::full()"
+			],
+			[
+				"san",
+				"santized_string"
+			],
+			[
+				"remo",
+				"removeScripTags"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"ajaxCon",
+				"ajaxContentDiv"
+			],
+			[
+				"query_",
+				"query_string"
+			],
+			[
+				"http_b",
+				"http_build_query"
+			],
+			[
+				"Pagina",
+				"Paginator	Laravel: Paginator::make()"
+			],
+			[
+				"Router",
+				"Router	Laravel: Router::route()"
+			],
+			[
+				"Pagin",
+				"Paginator	Laravel: Paginator::make()"
+			],
+			[
+				"fopen",
+				"fopen"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application/views/project/profile.blade.php",
+			"settings":
+			{
+				"buffer_size": 3085,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/project.php",
+			"settings":
+			{
+				"buffer_size": 12358,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "application/controllers/ajax.php",
+			"settings":
+			{
+				"buffer_size": 2508,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 68.0,
+		"selected_items":
+		[
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"set",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"set js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"set syntax php",
+				"Set Syntax: PHP"
+			],
+			[
+				"se",
+				"Set Syntax: PHP"
+			],
+			[
+				"set ",
+				"Set Syntax: PHP"
+			],
+			[
+				"comment",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install packa",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 153.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/apps/itprojects/application/migrations/2012_12_04_163253_create_user_table.php",
+		"/C/apps/itprojects/application/controllers/home.php",
+		"/C/apps/itprojects/public/js/api.js",
+		"/C/apps/itprojects/application/controllers/project.php",
+		"/C/apps/itprojects/application/controllers/ajax.php",
+		"/C/apps/itprojects/application/libraries/my/ldap.php",
+		"/C/apps/itprojects/application/start.php",
+		"/C/apps/itprojects/application/views/project/members-assign.blade.php",
+		"/C/apps/itprojects/application/models/project.php",
+		"/C/apps/itprojects/application/routes.php",
+		"/C/apps/itprojects/application/tasks/user.php",
+		"/C/apps/itprojects/laravel/database/eloquent/model.php",
+		"/C/apps/hiprod/public/bundles/admin/js/product/add.js",
+		"/C/apps/hiprod/public/bundles/admin/js/api.js",
+		"/C/apps/hiprod/public/js/api.js",
+		"/C/apps/hiprod/application/controllers/base/ajax.php",
+		"/C/apps/itprojects/application/controllers/base/ajax.php",
+		"/C/apps/itprojects/application/migrations/2012_12_04_163450_create_project_table.php",
+		"/C/apps/itprojects/application/controllers/user.php",
+		"/C/apps/itprojects/application/views/user/projects.blade.php",
+		"/C/apps/itprojects/application/migrations/2012_12_04_185938_create_discussion_table.php",
+		"/C/apps/itprojects/application/views/project/discussions.blade.php",
+		"/C/apps/itprojects/application/models/discussion.php",
+		"/C/apps/itprojects/application/start/iocs.php",
+		"/C/apps/itprojects/application/libraries/my/auth.php",
+		"/C/apps/itprojects/application/views/layouts/partials/header.blade.php",
+		"/C/apps/itprojects/application/models/project/user.php",
+		"/C/apps/itprojects/application/models/user.php",
+		"/C/apps/itprojects/application/views/project/profile.blade.php",
+		"/C/apps/itprojects/application/models/discussion/post.php",
+		"/C/apps/itprojects/application/views/project/partials/forms/discussion-reply.blade.php",
+		"/C/apps/itprojects/application/libraries/helper.php",
+		"/C/apps/itprojects/application/views/project/partials/forms/update-project.blade.php",
+		"/C/apps/itprojects/application/views/project/create.blade.php",
+		"/C/apps/itprojects/application/views/project/update.blade.php",
+		"/C/apps/itprojects/application/views/layouts/default.blade.php",
+		"/C/apps/WrsGroup/bundles/admin/public/js/api.js",
+		"/C/apps/WrsGroup/bundles/admin/views/layouts/default.blade.php",
+		"/C/apps/WrsGroup/bundles/admin/views/job/create.blade.php",
+		"/C/apps/qtistore/application/views/ajax/products/view.blade.php",
+		"/C/apps/qtistore/application/routes.php",
+		"/C/apps/qtistore/application/controllers/ajax.php",
+		"/C/apps/qtistore/public/js/product/view.js",
+		"/C/apps/qtistore/application/views/product/view.blade.php",
+		"/C/apps/qtistore/application/views/ajax/products/view.blade",
+		"/C/apps/qtistore/application/controllers/product.php",
+		"/C/apps/qtistore/application/views/ajax/products.blade.php",
+		"/C/apps/qtistore/application/views/product/index.blade.php",
+		"/C/apps/qtistore/public/css/sass/screen.scss",
+		"/C/apps/qtistore/laravel/laravel/helpers.php",
+		"/C/apps/qtistore/application/views/layouts/default.blade.php",
+		"/C/apps/qtistore/public/css/screen.css",
+		"/C/apps/qtistore/public/css/sass/print.scss",
+		"/C/apps/qtistore/public/css/sass/ie.scss",
+		"/C/apps/qtistore/laravel/laravel/paginator.php",
+		"/C/apps/qtistore/laravel/laravel/input.php",
+		"//wrs-intranet/C$/apps/qtiportalv2/data/logs/app-error.log",
+		"//wrs-intranet/C$/apps/qtiportalv2/public/5665",
+		"//wrs-intranet/C$/apps/qtiportalv2/public/5949",
+		"/C/apps/qtistore/public/js/product/index.js",
+		"/C/Users/jdalton.WNTDOM/AppData/Roaming/Mozilla/Firefox/Profiles/hryqo0by.default/signons.sqlite",
+		"/C/Users/jdalton.WNTDOM/AppData/Roaming/Mozilla/Firefox/Profiles/hryqo0by.default/key3.db",
+		"/C/apps/qtistore/public/js/api.js",
+		"/C/apps/qtistore/application/config/error.php",
+		"/C/apps/qtistore/application/views/ajax/product.blade.php",
+		"/C/apps/qtistore/storage/logs/2012-11-21.log",
+		"/C/apps/qtistore/application/views/ajax/products_backup.blade.php",
+		"/C/apps/qtistore/bundles/bootstrapper/paginator.php",
+		"/C/apps/qtistore/storage/views/2870884fcea543adc9734da4b20050c7",
+		"/C/apps/qtistore/application/libraries/my/paginator.php",
+		"/C/apps/qtistore/laravel/laravel/url.php",
+		"/C/apps/qtistore/application/views/home/index.blade.php",
+		"/C/apps/qtistore/application/controllers/home.php",
+		"/C/apps/qtistore/application/bundles.php",
+		"/C/apps/qtistore/application/views/ajax/products.php",
+		"/C/apps/qtistore/application/start.php",
+		"/C/apps/laravel/application/start.php",
+		"/C/Jordan-Backup/apps/QtiStore/application/controllers/home.php",
+		"/C/apps/qtistore/application/libraries/BigCommerce.php",
+		"/C/Jordan-Backup/apps/QtiStore/application/libraries/BigCommerce.php",
+		"/C/Jordan-Backup/apps/QtiStore/application/iocs.php",
+		"/C/apps/qtistore/application/start/iocs.php",
+		"/C/apps/qtistore/application/views/partials/header.blade.php",
+		"/C/apps/qtistore/application/views/products/index.blade",
+		"/C/apps/qtistore/application/libraries/rest/client.php",
+		"/C/Jordan-Backup/apps/QtiStore/bundles/zend/library/Zend/Rest/Client.php",
+		"/C/apps/qtistore/application/start/macros.php",
+		"/C/apps/qtistore/application/libraries/helpers.php",
+		"/C/apps/hiprod/application/views/layouts/default.blade.php",
+		"/C/apps/hiprod/application/start/macros.php",
+		"/C/apps/qtistore/application/views/partials/footer.blade.php",
+		"/C/apps/qtistore/application/start/composers.php",
+		"/C/apps/qtistore/application/views/partials/content.blade.php",
+		"/C/apps/hiprod/application/views/partials/header.blade.php",
+		"/C/apps/hiprod/application/start/composers.php",
+		"/C/apps/hiprod/application/views/home/login.blade.php",
+		"/C/apps/hiprod/application/views/home/index.blade.php",
+		"/C/apps/hiprod/application/views/partials/footer.blade.php",
+		"/C/apps/hiprod/application/views/partials/content.blade.php",
+		"/C/apps/hiprod/application/controllers/base.php",
+		"/C/apps/qtistore/application/controllers/base.php",
+		"/C/apps/qtistore/storage/views/b1832b371a9fb14fa2635dcc368b72c0",
+		"/C/apps/qtistore/storage/logs/2012-11-20.log",
+		"/C/apps/hiprod/application/controllers/home.php",
+		"/C/apps/qtistore/storage/cache/.gitignore",
+		"/C/apps/qtistore/application/controllers/base/ajax.php",
+		"/C/Users/jdalton.WNTDOM/AppData/Roaming/Sublime Text 2/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/jdalton.WNTDOM/AppData/Roaming/Sublime Text 2/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/jdalton.WNTDOM/AppData/Roaming/Sublime Text 2/Packages/User/Blade.sublime-settings",
+		"/C/Users/jdalton.WNTDOM/AppData/Roaming/Sublime Text 2/Packages/DocBlockr/Base File.sublime-settings",
+		"/C/apps/qtistore/laravel/laravel/routing/controller.php",
+		"/C/apps/qtistore/application/config/application.php",
+		"/C/apps/qtistore/application/migrations/2012_11_20_152753_create_user_table.php",
+		"/C/apps/qtistore/application/models/user.php",
+		"/C/apps/qtistore/laravel/laravel/config.php",
+		"/C/php/php.ini",
+		"/C/Users/jdalton.WNTDOM/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/apps/qtistore/application/config/auth.php",
+		"/C/apps/qtistore/public/index.php",
+		"/C/apps/laravel/readme.md",
+		"/C/apps/laravel/public/index.php",
+		"/C/apps/qtistore/application/config/database.php",
+		"/C/apps/qtistore/application/migrations/2012_11_20_093827_create_session_table.php",
+		"/C/apps/laravel/application/config/database.php",
+		"/C/apps/qtistore/readme.md",
+		"/C/apache2/conf/extra/httpd-vhosts.conf",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/apps/hiprod/readme.md"
+	],
+	"find":
+	{
+		"height": 59.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Auth::user()",
+			"data",
+			"syn",
+			"'",
+			",",
+			"thead",
+			"responseOutput",
+			"app",
+			"includes",
+			"with",
+			"$project_category->name",
+			"My_Auth::user()->id",
+			"after_referring_url",
+			"pre_login_url",
+			"get_discussion",
+			"post",
+			"referr",
+			"santized_string",
+			"product",
+			"/.",
+			"pagination",
+			"appends",
+			"link",
+			"url",
+			"app",
+			"links",
+			"link(",
+			"current",
+			"URL::",
+			"URL",
+			"url",
+			"->appends",
+			"n appends(",
+			"html",
+			"comment",
+			"$_SERVER['HTTPS']",
+			"$_SERVER['HTTP_HOST']",
+			"$_SERVER['http",
+			"protocol",
+			"HTTPS",
+			"exten",
+			"extension_dir",
+			"mbstring",
+			"extension=php_mbstring.dll",
+			"mb_output_handler",
+			"utf",
+			"utf8",
+			"php artisan",
+			"conf",
+			"mbst",
+			"mb",
+			"mbstring",
+			"mbst",
+			"mbstring",
+			"hiprod",
+			"remote",
+			"vhost",
+			"vhosts",
+			"httpd-vhosts",
+			"vhost",
+			"exte",
+			"enabled",
+			"addtype",
+			"PHP"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application/views/project/profile.blade.php",
+					"settings":
+					{
+						"buffer_size": 3085,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1936,
+								1936
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel-Blade/Blade.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 81.0,
+						"translation.y": 1152.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "application/controllers/project.php",
+					"settings":
+					{
+						"buffer_size": 12358,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2077,
+								2077
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1981.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "application/controllers/ajax.php",
+					"settings":
+					{
+						"buffer_size": 2508,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1861,
+								1861
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1925.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"projectprofile",
+				"application/views/project/profile.blade.php"
+			],
+			[
+				"ajax",
+				"application/controllers/ajax.php"
+			],
+			[
+				"routes",
+				"application/routes.php"
+			],
+			[
+				"config/app",
+				"application/config/application.php"
+			],
+			[
+				"view/index",
+				"application/views/home/index.blade.php"
+			],
+			[
+				"home.",
+				"application/controllers/home.php"
+			],
+			[
+				"application/config/application",
+				"application/config/application.php"
+			],
+			[
+				"config",
+				"laravel/laravel/config.php"
+			],
+			[
+				"bundles",
+				"application/bundles.php"
+			],
+			[
+				"data",
+				"application/config/database.php"
+			],
+			[
+				"index",
+				"public/index.php"
+			],
+			[
+				"database",
+				"application/config/database.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 838.0,
+		"selected_items":
+		[
+		],
+		"width": 1600.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 432.0,
+	"status_bar_visible": true
+}
